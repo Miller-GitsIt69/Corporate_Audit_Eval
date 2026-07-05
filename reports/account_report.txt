@@ -1,0 +1,11 @@
+Skipping malformed record: badline
+Skipping invalid inactivity value: tclark,HR,not_a_number
+Skipping malformed record: format_issue,Legal,18,extra
+********************************** ACCOUNT AUDIT REPORT 
+====================
+jdoe | Sales | 5 days | ACTIVE
+asmith | Finance | 30 days | REVIEW
+bwilson | IT | 12 days | ACTIVE
+mjones | Marketing | 95 days | DISABLE
+sroberts | Security | 90 days | DISABLE
+zeek | IT | 14 days | ACTIVE
