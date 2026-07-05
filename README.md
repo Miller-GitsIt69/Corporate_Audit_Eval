@@ -1,5 +1,3 @@
-# Corporate_Audit_Eval
-
 # Corporate Account Auditor — Troubleshooting Lab
 
 ## Scenario
