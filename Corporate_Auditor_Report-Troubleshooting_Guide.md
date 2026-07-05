@@ -128,8 +128,4 @@ This troubleshooting exercise established:
 - Understanding of proper input verification, CSV processing, Bash menu mapping and Python data structures
 - Proper git branching and collaboration practices
 
-### Congrats Theo!!
-<p align="center">
-  <img src="https://github.com/ChuckKeyes/CAPSTONE_Lab3/blob/main/zeek/Audit_Evidence/Theo_Propose_lol.jpg" width="600" title="hover text">
-</p>
 
